@@ -2,7 +2,7 @@
 
 This folder contains (i) code and (ii) appendix to the paper 'Indefinite pronouns optimize the simplicity/informativeness trade-off' by [Milica Denić](https://sites.google.com/view/milicadenic/), [Shane Steinert-Threlkeld](https://www.shane.st/) and [Jakub Szymanik](https://jakubszymanik.com/).
 
-The appendix file is [Negative_indefinites_40_lang_data.pdf](https://github.com/milicaden/indefinite-pronouns-simplicity-informativeness/blob/main/Negative_indefinites_40_lang_data.pdf).
+The appendix file is [appendix_negative_indefinites.pdf](https://github.com/milicaden/indefinite-pronouns-simplicity-informativeness/blob/main/appendix_negative_indefinites.pdf).
 
 In the remainder, we describe the code for Experiments 1 and 2. Experiments 1-i and 2-i, Experiments 1-ii and 2-ii, and Experiments 1-iii and 2-iii work similarly, with the relevant files in their respective folders (note that the same languages are used across the four experimental settings).
 
